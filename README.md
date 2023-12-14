@@ -56,7 +56,8 @@ This app is dependent on the OpenWeatherMap API, and its functionality is subjec
 
 ### Author
 
-[Your Name]
+학번:20102449
+이름: 어타벡
 
 ### License
 
