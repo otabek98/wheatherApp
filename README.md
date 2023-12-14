@@ -59,6 +59,4 @@ This app is dependent on the OpenWeatherMap API, and its functionality is subjec
 학번:20102449
 이름: 어타벡
 
-### License
 
-This project is licensed under the [MIT License](LICENSE).
